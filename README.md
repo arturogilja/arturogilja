@@ -1,6 +1,6 @@
 # Hi, I'm Arturo Gil 👋
 
-**Full-stack software engineer** with 7 years of experience building across the stack — from web apps and backends to AI features and native mobile. I like jumping into unfamiliar problems and shipping pragmatic, well-tested solutions.
+**Full-stack software engineer** with over 7 years of experience building across the stack — from web apps and backends to AI features and native mobile. I like jumping into unfamiliar problems and shipping pragmatic, well-tested solutions.
 
 🤖 Currently **Software Engineer at Meta**, working on **WhatsApp AI features for iOS** — building agentic experiences and the evaluation systems that keep them reliable.
 
